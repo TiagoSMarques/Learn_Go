@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 	cards := newDeck()
 	// hand, rem_deck := deal(cards, 5)
